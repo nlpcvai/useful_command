@@ -1,5 +1,5 @@
-
-press e entor recovery mode
+press shift enter grub mode
+press e enter recovery mode
 delete recovery nomodeset
 add quiet splash rw init=/bin/bash
 press F10
